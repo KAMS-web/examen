@@ -52,3 +52,21 @@ input{
     font-size: 16px;
 }
 
+.forgot-password{
+    color: #6a0dad;
+    text-align: none;
+    font-size: 14px;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.login-button{
+    width: 100%;
+    padding: 10px;
+    background: #6a0dad;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
